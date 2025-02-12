@@ -1,5 +1,4 @@
 ## Hi there 👋
 
-[![OneDongua's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneDongua)](https://github.com/OneDongua)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneDongua&layout=compact)](https://github.com/OneDongua)
+| <a href="https://github.com/OneDongua/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OneDongua&show_icons=true&hide_border=true" alt="OneDongua's github stats" /></a> | <a href="https://github.com/OneDongua/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneDongua&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
